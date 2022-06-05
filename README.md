@@ -17,9 +17,7 @@ day 6  | 603 | 348 | 49
 day 7  | 516 | 383 | 101
 day 8  | 525 | 375 | 100
 day 9  | 541 | 355 | 104
-day 10 | 503 | 362 | 135
-
-![plt](https://user-images.githubusercontent.com/37748958/172033523-82c298d0-6160-4868-af12-eb9a839b7c3b.png)
+day 10 | 503 | 362 | 135 ![plt](https://user-images.githubusercontent.com/37748958/172033523-82c298d0-6160-4868-af12-eb9a839b7c3b.png)
 
 </div>
 
