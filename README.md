@@ -17,11 +17,15 @@ day 6  | 603 | 348 | 49
 day 7  | 516 | 383 | 101
 day 8  | 525 | 375 | 100
 day 9  | 541 | 355 | 104
-day 10 | 503 | 362 | 135 ![plt](https://user-images.githubusercontent.com/37748958/172033523-82c298d0-6160-4868-af12-eb9a839b7c3b.png)
+day 10 | 503 | 362 | 135 
+
+![plt](https://user-images.githubusercontent.com/37748958/172033523-82c298d0-6160-4868-af12-eb9a839b7c3b.png)
 
 </div>
 
 The graph show a correlation between time and sentiments about the constant fall in bitcoin price
+
+![falls](https://user-images.githubusercontent.com/37748958/172033695-dd00742f-91a0-474d-8517-b88eb40ad4f7.gif)
 
 
 
@@ -48,5 +52,7 @@ day 10 | 493 | 362 | 145
 </div>
 
 The graph show a correlation between time and sentiments about the days before the maximum bitcoin price
+
+![rises](https://user-images.githubusercontent.com/37748958/172033741-a82b123a-a221-4266-9d98-8b68b877a0c8.gif)
 
 Use tweepy library to manage the twitter API, pandas to organice data as a dataframe, re library to data cleaning, textblob to words analysis and seaborn to visualize data.
