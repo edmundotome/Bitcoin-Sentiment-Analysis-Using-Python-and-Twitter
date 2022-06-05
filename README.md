@@ -25,10 +25,6 @@ day 10 | 503 | 362 | 135
 
 The graph show a correlation between time and sentiments about the constant fall in bitcoin price
 
-![falls](https://user-images.githubusercontent.com/37748958/172033695-dd00742f-91a0-474d-8517-b88eb40ad4f7.gif)
-
-
-
 ## Rise Analysis
 Took previous day to the highest bitcoin value in 2021 (this happen in 7th october) and analyze the sentiment reaction during ten continous days before, this taking 1000 random tweets using Bitcoin as a hashtag.
 
@@ -52,7 +48,5 @@ day 10 | 493 | 362 | 145
 </div>
 
 The graph show a correlation between time and sentiments about the days before the maximum bitcoin price
-
-![rises](https://user-images.githubusercontent.com/37748958/172033741-a82b123a-a221-4266-9d98-8b68b877a0c8.gif)
 
 Use tweepy library to manage the twitter API, pandas to organice data as a dataframe, re library to data cleaning, textblob to words analysis and seaborn to visualize data.
