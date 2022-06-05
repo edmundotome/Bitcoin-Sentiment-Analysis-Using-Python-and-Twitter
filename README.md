@@ -2,6 +2,9 @@
 A data mining project to analyze the reaction of Twitter users after the falls of Bitcoin throughout 2021.
 
 ## Fall Analysis
+
+![min](https://user-images.githubusercontent.com/37748958/172034225-89e1c1e9-dec8-4e6a-bd36-277e4f6e78e8.jpeg)
+
 Took the day when bitcoin price started the biggest fall in 2021 (this happen in 10th May) and analyze the sentiment reaction the next ten days, this taking 1000 random tweets using Bitcoin as a hashtag.
 
 <div align="center">
@@ -26,6 +29,9 @@ day 10 | 503 | 362 | 135
 The graph show a correlation between time and sentiments about the constant fall in bitcoin price
 
 ## Rise Analysis
+
+![max](https://user-images.githubusercontent.com/37748958/172034230-e533697d-6860-4b41-a3df-198869c55485.jpeg)
+
 Took previous day to the highest bitcoin value in 2021 (this happen in 7th october) and analyze the sentiment reaction during ten continous days before, this taking 1000 random tweets using Bitcoin as a hashtag.
 
 <div align="center">
