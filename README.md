@@ -19,7 +19,7 @@ day 8  | 525 | 375 | 100
 day 9  | 541 | 355 | 104
 day 10 | 503 | 362 | 135 
 
-![plt](https://user-images.githubusercontent.com/37748958/172033523-82c298d0-6160-4868-af12-eb9a839b7c3b.png)
+![plt](https://user-images.githubusercontent.com/37748958/172033858-9687a617-414e-4438-88b9-8a436aaa3448.jpg)
 
 </div>
 
@@ -43,7 +43,7 @@ day 8  | 450 | 298 | 252
 day 9  | 451 | 284 | 265
 day 10 | 493 | 362 | 145
 
-![plt](https://user-images.githubusercontent.com/37748958/172033456-5be012bb-07c6-4c3a-8c33-b5a3dbf23ed1.png)
+![plt](https://user-images.githubusercontent.com/37748958/172033862-aff35413-3c67-4771-8964-6fe07fed96e1.jpg)
 
 </div>
 
